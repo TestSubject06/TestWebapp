@@ -1,0 +1,691 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"cone",
+				"contentWidth"
+			],
+			[
+				"cont",
+				"contentWidth"
+			],
+			[
+				"text",
+				"textWidth"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"control",
+				"controllerAs"
+			],
+			[
+				"FlxGroup",
+				"FlxTypedGroup\tflixel.group"
+			],
+			[
+				"time",
+				"timeScaler\tvar"
+			],
+			[
+				"Flx",
+				"FlxSprite"
+			],
+			[
+				"Fl",
+				"FlxG"
+			],
+			[
+				"Int",
+				"Int\tclass"
+			],
+			[
+				"int",
+				"Int\tclass"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"backgo",
+				"background"
+			],
+			[
+				"margin",
+				"margin-right"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 3089,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/home.html",
+			"settings":
+			{
+				"buffer_size": 465,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/404.html",
+			"settings":
+			{
+				"buffer_size": 3411,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/directives/textStretch.js",
+			"settings":
+			{
+				"buffer_size": 1055,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/main.html",
+			"settings":
+			{
+				"buffer_size": 692,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/main.css",
+			"settings":
+			{
+				"buffer_size": 1492,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/app.js",
+			"settings":
+			{
+				"buffer_size": 799,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/controllers/main.js",
+			"settings":
+			{
+				"buffer_size": 384,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/controllers/about.js",
+			"settings":
+			{
+				"buffer_size": 385,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "change",
+		"selected_items":
+		[
+			[
+				"change",
+				"Git: Change Branch"
+			],
+			[
+				"run",
+				"Haxe: Run build"
+			],
+			[
+				"target",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"targ",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"organ",
+				"Haxe: Organize Imports"
+			],
+			[
+				"orga",
+				"Haxe: Organize Imports"
+			],
+			[
+				"ru",
+				"Haxe: Run build"
+			],
+			[
+				"organi",
+				"Haxe: Organize Imports"
+			],
+			[
+				"new",
+				"Haxe: New Class"
+			],
+			[
+				"rnu",
+				"Haxe: Run build"
+			],
+			[
+				"run bui",
+				"Haxe: Run build"
+			],
+			[
+				"haxe",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"lime test linux",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/zack/webapp/app",
+		"/home/zack/webapp/app/scripts",
+		"/home/zack/webapp/app/scripts/directives",
+		"/home/zack/webapp/app/styles",
+		"/home/zack/webapp/app/views"
+	],
+	"file_history":
+	[
+		"/home/zack/Node/gameList.js",
+		"/home/zack/Haxe/HelloWorld/source/PlayState.hx",
+		"/home/zack/Haxe/HelloWorld/source/Reg.hx",
+		"/home/zack/Haxe/HelloWorld/source/MovingSquare.hx",
+		"/home/zack/Haxe/HelloWorld/source/Main.hx",
+		"/home/zack/Haxe/HelloWorld/source/PartyCreate.hx",
+		"/home/zack/Haxe/HelloWorld/HelloWorld.sublime-project",
+		"/home/zack/Haxe/HelloWorld/source/maps/GameMap.hx",
+		"/home/zack/Haxe/HelloWorld/source/states/Overworld.hx",
+		"/home/zack/Haxe/HelloWorld/source/MenuState.hx",
+		"/home/zack/Haxe/HelloWorld/source/ui/CharacterPlate.hx",
+		"/usr/lib/haxe/std/Math.hx",
+		"/usr/lib/haxe/lib/flixel/3,3,11/flixel/text/FlxText.hx",
+		"/usr/lib/haxe/lib/flixel/3,3,11/flixel/FlxSprite.hx",
+		"/usr/lib/haxe/lib/flixel/3,3,11/flixel/util/FlxMath.hx",
+		"/usr/lib/haxe/lib/flixel/3,3,11/flixel/util/FlxRandom.hx",
+		"/usr/lib/haxe/lib/flixel/3,3,11/flixel/FlxG.hx",
+		"/home/zack/Haxe/HelloWorld/Project.xml",
+		"/home/zack/Haxe/HelloWorld/.gitignore",
+		"/etc/modprobe.d/usbtest.conf",
+		"/home/zack/Downloads/Tutorial/index.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"trace",
+			"random"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								620,
+								620
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								465,
+								465
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/404.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/scripts/directives/textStretch.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								190
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								692,
+								692
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/styles/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1056,
+								1056
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 901.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/scripts/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								691,
+								691
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/scripts/controllers/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								282,
+								282
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/scripts/controllers/about.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"app/styles/main.css"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"flxrandom",
+				"Flixel/flixel/util/FlxRandom.hx"
+			],
+			[
+				"flxg",
+				"Flixel/flixel/FlxG.hx"
+			],
+			[
+				"math",
+				"Haxe/Math.hx"
+			],
+			[
+				"flxmath",
+				"Flixel/flixel/util/FlxMath.hx"
+			],
+			[
+				"flxsprite",
+				"Flixel/flixel/FlxSprite.hx"
+			],
+			[
+				"flxtext",
+				"Flixel/flixel/text/FlxText.hx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/workspace/socket-test.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
